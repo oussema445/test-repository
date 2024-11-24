@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Première modification dans file.txt
 aliiiiiiiiii
+=======
+Première modification dans file.txt allo
+
+>>>>>>> feature2
